@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Button" android:layout_x="224.0dip" android:layout_y="463.0dip" />
+    <EditText android:id="@id/editText1" android:layout_width="204.0dip" android:layout_height="wrap_content" android:ems="10" android:layout_x="22.0dip" android:layout_y="463.0dip">
+        <requestFocus />
+    </EditText>
+    <ScrollView android:id="@id/scrollView1" android:layout_width="254.0dip" android:layout_height="425.0dip" android:layout_x="24.0dip" android:layout_y="26.0dip" android:foregroundGravity="bottom">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" />
+        </LinearLayout>
+    </ScrollView>
+</AbsoluteLayout>

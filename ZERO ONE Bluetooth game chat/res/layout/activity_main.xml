@@ -1,0 +1,57 @@
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/el"
+    android:keepScreenOn="true" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="107dp"
+        android:layout_marginTop="83dp"
+        android:background="@drawable/nnnnp"
+        android:text="Single Player" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Button01"
+        android:layout_alignBottom="@+id/Button01"
+        android:layout_marginLeft="112dp"
+        android:layout_toRightOf="@+id/Button01"
+        android:background="@drawable/nnnnp"
+        android:text="Double Player" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Button02"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/nnnnp"
+        android:text="Exit" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Button01"
+        android:layout_alignRight="@+id/Button02"
+        android:layout_below="@+id/Button03"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/nnnnp"
+        android:text="Send notic to Friend" /><Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/button1"
+        android:background="@drawable/okkkk"
+        
+        android:text="You Have notic" />
+
+</RelativeLayout>

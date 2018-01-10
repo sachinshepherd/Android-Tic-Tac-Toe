@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tic Tac Toe</string>
+    <string name="title_activity_client_server">client_server</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_notion">Notion</string>
+    <string name="title_activity_chat">chat</string>
+
+</resources>
