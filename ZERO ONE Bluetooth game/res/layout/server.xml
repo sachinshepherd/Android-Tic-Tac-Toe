@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:background="@drawable/nnnn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textColor="#ffffffff" android:gravity="left|center" android:id="@id/button2" android:background="@drawable/arr" android:layout_width="128.0dip" android:layout_height="88.0dip" android:text="                    Exit" android:layout_x="185.0dip" android:layout_y="10.0dip" />
+    <Button android:id="@id/button1" android:background="@drawable/play" android:layout_width="116.0dip" android:layout_height="126.0dip" android:layout_x="10.0dip" android:layout_y="74.0dip" />
+    <Button android:textColor="#ffffffff" android:id="@id/Button02" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="115.0dip" android:layout_y="260.0dip" />
+    <Button android:id="@id/Button01" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="39.0dip" android:layout_y="260.0dip" />
+    <Button android:id="@id/Button05" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="115.0dip" android:layout_y="336.0dip" />
+    <Button android:id="@id/Button04" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="39.0dip" android:layout_y="334.0dip" />
+    <Button android:id="@id/Button03" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="193.0dip" android:layout_y="260.0dip" />
+    <Button android:id="@id/Button07" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="41.0dip" android:layout_y="410.0dip" />
+    <Button android:id="@id/Button08" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="119.0dip" android:layout_y="412.0dip" />
+    <Button android:id="@id/Button09" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="195.0dip" android:layout_y="412.0dip" />
+    <Button android:id="@id/Button06" android:background="@drawable/all" android:layout_width="67.0dip" android:layout_height="65.0dip" android:layout_x="195.0dip" android:layout_y="336.0dip" />
+    <Gallery android:id="@id/Gallery01" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="38.0dip" android:layout_y="260.0dip" />
+    <Gallery android:id="@id/Gallery02" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="114.0dip" android:layout_y="260.0dip" />
+    <Gallery android:id="@id/Gallery03" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="193.0dip" android:layout_y="260.0dip" />
+    <Gallery android:id="@id/Gallery04" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="38.0dip" android:layout_y="334.0dip" />
+    <Gallery android:id="@id/Gallery05" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="116.0dip" android:layout_y="334.0dip" />
+    <Gallery android:id="@id/Gallery06" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="195.0dip" android:layout_y="334.0dip" />
+    <Gallery android:id="@id/Gallery07" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="40.0dip" android:layout_y="410.0dip" />
+    <Gallery android:id="@id/Gallery08" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="119.0dip" android:layout_y="410.0dip" />
+    <Gallery android:id="@id/Gallery09" android:background="@drawable/crosered" android:layout_width="68.0dip" android:layout_height="65.0dip" android:layout_x="196.0dip" android:layout_y="410.0dip" />
+</AbsoluteLayout>
